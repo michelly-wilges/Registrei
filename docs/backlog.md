@@ -68,3 +68,11 @@
 - Melhorar fluxo de navegação
 
 ---
+
+## Épico 8 – Ajustes e Finalização
+
+- Revisar funcionalidades implementadas
+- Corrigir erros do sistema
+- Ajustar textos e mensagens
+- Validar fluxo completo do sistema
+- Preparar versão final para entrega
