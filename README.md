@@ -16,7 +16,7 @@ Evitar perda de informações causadas pelo registro tardio de serviços, garant
 
 ## Documentação
 
-- [A documentação do projeto está disponível em](./docs/Registrei_Documentacao.docx)
+- [Documento do Projeto](./docs/Registrei_Documentacao.docx)
 
 ## Diagramas
 
