@@ -16,8 +16,10 @@ Evitar perda de informações causadas pelo registro tardio de serviços, garant
 
 ## Documentação
 
-A documentação do projeto está disponível na pasta `/docs`.
-- [Documentação do Projeto](./docs/Registrei_Documentacao.docx)
+- [A documentação do projeto está disponível em](./docs/Registrei_Documentacao.docx)
+
+## Diagramas
+
 - [Diagrama de Classes](./docs/Diagrama_Classes_UML.png)
 - [Diagrama de Casos de Uso](./docs/Registrei_plantUML.png)
 
