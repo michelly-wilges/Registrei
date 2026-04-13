@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using Registrei.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite("Data Source=registrei.db"));
 
 var app = builder.Build();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Registrei")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ec8a6de64a5d8fe2c5e6833d266f177e00b9e18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+329fa1731b4b9f1de0c22918a207365bdf5a01fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Registrei")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Registrei")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
