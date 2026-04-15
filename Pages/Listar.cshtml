@@ -1,0 +1,11 @@
+﻿@page
+@model Registrei.Pages.ListarModel
+@{
+    <h2>Serviços</h2>
+    <ul>
+        @foreach (var s in Model.Servicos)
+        {
+            <li>@s.Descricao - @s.Data</li>
+        }
+    </ul>
+}

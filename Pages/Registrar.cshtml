@@ -1,0 +1,16 @@
+﻿@page
+@model Registrei.Pages.RegistrarModel
+@{
+    <h2>Registrar Serviço</h2>
+    
+    <form method="post">
+        <input asp-for="Servico.Descricao" placeholder="Descrição"/>
+        <br/><br/>
+        <button type="submit">Salvar</button>
+    </form>
+
+    @if (Model.Mensagem != null)
+    {
+        <p>@Model.Mensagem</p>
+    }
+}
